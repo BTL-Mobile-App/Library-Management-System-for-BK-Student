@@ -4,7 +4,7 @@
 - React native
 - NodeJS
 - VSCode
-- Android Studio hoặc thiết bị Android thật
+- Android Studio
 
 ## Installation
 Clone the repository.
