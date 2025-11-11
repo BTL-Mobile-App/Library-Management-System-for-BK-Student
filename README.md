@@ -12,13 +12,6 @@ Clone the repository.
 git clone https://github.com/BTL-Mobile-App/Library-Management-System-for-BK-Student.git
 ```
 
-### Backend
-```bash
-cd backend
-npm install
-npm run dev
-```
-
 ### Frontend (mobile)
 ```bash
 cd frontend
@@ -26,18 +19,28 @@ npm install
 ```
 Login credentials: `ndngocks@gmail.com` - `password1`
 
+### Backend
+```bash
+cd backend
+npm install
+npm run dev
+```
+
 ## Features
 - Login/Logout
-- Home screen: search bar, category list, book list
-- View book detail
-- Hold a book
-- Hold ticket list: view, cancel
-- Borrow ticket list: view, return QR, rate book
-- Profile screen
+- Quick Search & Advanced Filters
+- Book Details
+- My Shelf (Borrowing Dashboard)
+- Automatic Due Date Reminders (Push & Email)
+- Hold / Reserve Queue
+- Borrowing History by Semester
+- QR / Barcode Lookup
+- Profile & Privacy Settings
+- Help / FAQ & Feedback
 
 ## Screenshots
 
 
 ---
-That's all! Happy coding!
+Thanks!!!
 
