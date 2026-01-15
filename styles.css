@@ -261,7 +261,11 @@ body {
 }
 
 .image-label {
-    color: #115bc3;
+    color: #0050a6;
+    font-weight: 700;
+    /* Đã đổi từ gray sang màu xanh dương */
+    /* -webkit-text-stroke: 1px white; */
+    background-color: gainsboro;
     font-weight: 600;
     margin-bottom: 15px;
     font-size: 14px;
